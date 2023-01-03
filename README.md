@@ -1,4 +1,6 @@
 # Introduction
+This is the first project in the Udacity Data Analyst Nanodegree.
+
 In this project, I'll go through the data analysis process and see how everything fits together.
 
 I'll use the Python libraries NumPy, Pandas, and Matplotlib
